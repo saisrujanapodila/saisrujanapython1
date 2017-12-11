@@ -1,0 +1,31 @@
+WHAT IS PYTHON?
+
+Python is a widely used high-level programming language for general-purpose programming, created by Guido van Rossum and first released in 1991. An interpreted language, Python has a design philosophy that emphasizes code readability (notably using whitespace indentation to delimit code blocks rather than curly brackets or keywords), and a syntax that allows programmers to express concepts in fewer lines of code than might be used in languages such as C++ or Java.[25][26] It provides constructs that enable clear programming on both small and large scales.[27]
+Python features a dynamic type system and automatic memory management. It supports multiple programming paradigms, including object-oriented, imperative, functional and procedural, and has a large and comprehensive standard library.[28]
+Python interpreters are available for many operating systems. CPython, the reference implementation of Python, is open source software[29] and has a community-based development model, as do nearly all of its variant implementations. CPython is managed by the non-profit Python Software Foundation.
+
+FEATURES OF PHYTHON?
+Some of Python's notable features:
+
+    Uses an elegant syntax, making the programs you write easier to read.
+    Is an easy-to-use language that makes it simple to get your program working. This makes Python ideal for prototype development and other ad-hoc programming tasks, without compromising maintainability.
+    Comes with a large standard library that supports many common programming tasks such as connecting to web servers, searching text with regular expressions, reading and modifying files.
+    Python's interactive mode makes it easy to test short snippets of code. There's also a bundled development environment called IDLE.
+    Is easily extended by adding new modules implemented in a compiled language such as C or C++.
+    Can also be embedded into an application to provide a programmable interface.
+    Runs anywhere, including Mac OS X, Windows, Linux, and Unix.
+    Is free software in two senses. It doesn't cost anything to download or use Python, or to include it in your application. Python can also be freely modified and re-distributed, because while the language is copyrighted it's available under an open source license. 
+    
+    
+    Some programming-language features of Python are:
+
+    A variety of basic data types are available: numbers (floating point, complex, and unlimited-length long integers), strings (both ASCII and Unicode), lists, and dictionaries.
+    Python supports object-oriented programming with classes and multiple inheritance.
+    Code can be grouped into modules and packages.
+    The language supports raising and catching exceptions, resulting in cleaner error handling.
+    Data types are strongly and dynamically typed. Mixing incompatible types (e.g. attempting to add a string and a number) causes an exception to be raised, so errors are caught sooner.
+    Python contains advanced programming features such as generators and list comprehensions.
+    Python's automatic memory management frees you from having to manually allocate and free memory in your code. 
+    
+    ADVANTAGES:
+    There are many benefits of learning Python, especially as your first language, which we will discuss. It is a language that is remarkably easy to learn, and it can be used as a stepping stone into other programming languages and frameworks. ... 2) Most automation, data mining, and big data platforms rely on Python.
